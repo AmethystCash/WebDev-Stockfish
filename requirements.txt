@@ -1,0 +1,4 @@
+flask==latest
+jsonify=latest
+stockfish==latest
+chess==latest
